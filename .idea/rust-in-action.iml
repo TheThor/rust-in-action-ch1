@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/hello-world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hello2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/penguins/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cereals/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/hello2/target" />
       <excludeFolder url="file://$MODULE_DIR$/penguins/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cereals/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
