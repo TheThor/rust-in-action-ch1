@@ -1,3 +1,9 @@
+use std::num::Complex;
+
 fn main() {
-    println!("Hello, world!");
+    let a = Complex { re: 2.1, im: -1.2 };
+    let b = Complex::new(11.1, 22.2);
+    let result = a + b;
+
+    println!("result: {}, {}i", result.re, result.im);
 }
